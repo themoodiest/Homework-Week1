@@ -1,4 +1,4 @@
-# # Truesy and the Fashion Revolution
+# Truesy and the Fashion Revolution
 
 ## Overview and Origin
 
