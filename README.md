@@ -4,7 +4,7 @@
   
   Truesy was founded by Marc Beckman- cofounder of creative agency DMA United- in May of 2021 (McDowell & Benissan, 2021). With the help of TQTezos, a tech company that builds Tezos-based solutions, Truesy was created to provide artists a very personal and curated experience while selling their NFTs. Sellers on Truesy can create a new type of NFT called a “dynamic NFT,” which allows for the product to be upgradeable throughout its lifetime. Truesy is meant to attract customers that can spend cryptocurrency but also those who can only pay in national currency.  It is also said to be a more ecofriendly marketplace since it is built on the Tezos blockchain, which uses “…very little energy, especially compared to other large Blockchains” (Walters, 2021). According to Chris Carella, Product Lead at Truesy, the new marketplace is meant to offer five major solutions: to be highly curated, offer personal gallery-like displays for the artists who sell on the platform, be ecofriendly and sustainable, create unique products such as dynamic NFTs, and be a user-friendly platform (Mangiero, 2021).  
   
-  In an interview with the president of TQTezos, Carella explained that as an artist he was looking for a way to authenticate his artworks. With his professional background in tech apps, computer science and blockchain, he knew that he wanted to build an app on a blockchain platform. Due to its ecofriendliness, TQTezos was the tech company of choice to help him develop Truesy. DMA United and TQTezos were already looking for an blockchain solution that could penetrate the fashion industry. 
+  In an interview with the president of TQTezos, Carella explained that as an artist he was looking for a way to authenticate his artworks. With his professional background in tech apps, computer science and blockchain, he knew that he wanted to build an app on a blockchain platform. Due to its ecofriendliness, TQTezos was the tech company of choice to help him develop Truesy. DMA United and TQTezos were already looking for an blockchain solution that could penetrate the fashion industry, so the discussion with Chris Carella initiated the production and launch of Truesy. 
 
 ## Business Activities:
 
@@ -44,3 +44,10 @@ What solution does this company offer that their competitors do not or cannot of
 
 * Why are these technologies appropriate for your solution?
 
+References:
+
+McDowell, M., & Benissan, E. (2021, August 3). Mapping the net-a-porter of NFT marketplaces. Vogue Business. Retrieved December 22, 2021, from https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/technology/mapping-the-net-a-porters-of-nfts/amp# 
+
+Walters, A. (2021, April 27). Highly curated NFT Marketplace Truesy just launched on Tezos onboarding big-name artists. XTZ.News. Retrieved December 22, 2021, from https://xtz.news/latest-tezos-news/highly-curated-nft-marketplace-truesy-just-launched-on-tezos/ 
+
+YouTube. (2021). Truesy: The Next Evolution of Community and Culture. YouTube. Retrieved December 22, 2021, from https://www.youtube.com/watch?v=gFHMi0tUDD4. 
